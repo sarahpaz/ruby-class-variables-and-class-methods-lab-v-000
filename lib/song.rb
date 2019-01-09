@@ -13,8 +13,8 @@ class Song
     @artist
     @genre
   end
-  
-  def name(name)
+
+  def name
     @name = name
   end
 

@@ -13,8 +13,10 @@ class Song
     @artist
     @genre
   end
-
-  def self.count
+  def name
+    
+  end
+  def self.name
     @@count
   end
 

@@ -13,9 +13,7 @@ class Song
     @artist
     @genre
   end
-  def name
 
-  end
   def self.count
     @@count
   end
